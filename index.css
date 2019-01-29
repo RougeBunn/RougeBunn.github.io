@@ -18,7 +18,7 @@ body {
 }
 
 .navbar {
-  position: fixed;
+  background-color:#132F63;
   width: 100%;
   z-index: 9990;
 }
@@ -60,11 +60,13 @@ nav {
 
 a {
   text-decoration: none;
+  color: #F6554D;
 }
 
 img {
   width: 50%;
 }
+
 header {
   font-family: 'Archivo Black', sans-serif;
   padding: 4% 0%;
